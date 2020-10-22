@@ -1,0 +1,22 @@
+{
+  "name": "web-moderno",
+  "version": "1.0.0",
+  "description": "Curso web-moderno Cod3r Udemy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alan-pereira/web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alan-pereira/web/issues"
+  },
+  "homepage": "https://github.com/alan-pereira/web#readme",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
